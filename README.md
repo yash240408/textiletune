@@ -80,6 +80,14 @@ See the [open issues](https://github.com/yash240408/textiletune/issues) for a li
 - Please make sure you check your spelling and grammar.
 - Create individual PR for each suggestion.
 
+## Example Calculation Spreadsheet
+
+For a more in-depth understanding of the textile calculations and formulas supported by this project, you can refer to the "GSM-GLM-CALC.xlsx" file. This spreadsheet provides detailed examples of various textile unit conversions, making it a valuable resource for exploring and testing the capabilities of the Textile Calculator app.
+
+Feel free to use this file as a reference while contributing to the project or customizing conversion formulas. It serves as a practical guide to the supported functionalities and can help you better grasp the nuances of textile calculations.
+
+[Download GSM-GLM-CALC.xlsx](https://github.com/yash240408/textiletune/blob/master/GSM-GLM-CALC.xlsx)
+
 ### Creating A Pull Request
 
 1. Fork the Project
