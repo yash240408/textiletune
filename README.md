@@ -51,7 +51,7 @@ Thank you for contributing to the Textile Calculator project! Together, let's ma
 
 > ⚠️Prerequisites
 >
-> - Before getting into it, make sure you have live server installed.
+> - Before getting into it, make sure you have flutter installed on your system
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
